@@ -12,4 +12,4 @@ It can peform the following operations:
 - weather forecasting
 - make a note
 - play music on spotify
-- take pictures using the front camera.
+- take pictures using the front camera
